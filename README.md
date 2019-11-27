@@ -4,9 +4,7 @@ Twitter interface clone made with Html and CSS - FlexBox
 
 ### Demo
 
-![Demo](demo.png)
-
-![Demo](demo2.png)
+[Live Preview](https://twitter-clone-flexbox.netlify.com/)
 
 ## :rocket: Technologies
 
